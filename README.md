@@ -21,8 +21,8 @@ A user-friendly GUI application for downloading YouTube videos. This application
 1. **Clone the repository**:
 
     ```bash
-    git clone https://github.com/yourusername/youtube-video-downloader-gui.git
-    cd youtube-video-downloader-gui
+    git clone https://github.com/Aswindevpk/Youtube_video_converter.git
+    cd Youtube_video_converter
     ```
 
 2. **Install the required packages mentioned in the requirements.txt.**:
