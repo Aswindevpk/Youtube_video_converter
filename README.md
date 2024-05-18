@@ -8,6 +8,12 @@ A user-friendly GUI application for downloading YouTube videos. This application
 - Select the download path.
 - Choose video resolution from available options.
 
+## Screenshots
+
+![Main Interface](screenshots/main_interface.PNG)
+
+*Screenshot of the main interface of the application.*
+
 ## Installation
 
 ### Installation Steps
@@ -48,12 +54,6 @@ A user-friendly GUI application for downloading YouTube videos. This application
 5. **Download the video**:
 
     - Click the download button to start the download process.
-
-## Screenshots
-
-![Main Interface](screenshots/main-interface.PNG)
-
-*Screenshot of the main interface of the application.*
 
 
 ## Acknowledgments
